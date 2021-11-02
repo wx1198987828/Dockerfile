@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.7.2  
+FROM k8s.gcr.io/ingress-nginx/controller:v0.41.2
 MAINTAINER 1198987828@qq.com
